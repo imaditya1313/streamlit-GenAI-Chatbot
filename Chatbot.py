@@ -1,5 +1,4 @@
 from urllib3 import response
-from langchain_core import chat_history
 import os
 from dotenv import load_dotenv
 import streamlit as st
